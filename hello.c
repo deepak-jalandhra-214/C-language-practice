@@ -1,10 +1,18 @@
 # include<stdio.h>
 
-/*my first code of c language*/
+/* my first code of c language */
 
 int main() {
-    printf("deepak\n");
-    printf("hlo guys\n");
-    printf("hello world");
+    int a,b;
+    printf(" enter a:");
+    scanf("%d",&a);
+    printf("enter b:");
+    scanf("%d",&b);
+    int sum=a+b;
+    printf( "sum of a and b :%d",sum);
     return 0;
 }
+
+
+
+
