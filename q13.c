@@ -7,4 +7,3 @@ int main(){
     printf("given char or not:%c",x=char &x=int);
     return 0;
 }
-hgd
