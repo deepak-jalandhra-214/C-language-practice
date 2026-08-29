@@ -11,8 +11,6 @@ int main(){
         a=b;
         b=result;
         printf("fib of %d is :%d\n",i,b);
-    
     }
-    
     return 0;
 }
