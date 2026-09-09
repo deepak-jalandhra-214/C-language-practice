@@ -1,5 +1,5 @@
 #include<stdio.h>
-void storetable(int table[][10],int n , int m );
+void storetable(int table[][10],int n , int m    );
 
 int main(){
     int table[2][10];

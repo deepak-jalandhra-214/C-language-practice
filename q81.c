@@ -17,5 +17,4 @@ void storetable(int table[][10],int n,int m,int number){
         printf("%d\t",table[n][i]);
     }
     printf("\n");
-
 }
